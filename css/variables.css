@@ -1,0 +1,18 @@
+:root {
+  --white: #FFF;
+  --main-color: #f3e8ff;
+  --main-color-1: #cbd5e1;
+  --main-color-2: #94a3b8;
+  --main-color-input:#b6aaaa;
+  --dark: #000;
+  --bg-color: #192131;
+  --bg-color-1: #0f172a;
+  --color-borde: #C2410C;
+  --color-borde-bg: #be185d;
+  --color-line: #c084fc;
+  --main-purpur: #9333ea;
+  --bg-color-purple: #581c87;
+  --color-purple: #6b21a8;
+  --color-button--activ:	#9333EA;
+  --color-button--hover: #5e3eb6;
+}
